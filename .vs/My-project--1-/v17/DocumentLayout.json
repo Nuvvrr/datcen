@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lomba\\My-project--1-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SCRIPT\\CCTVManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\ComputerInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SCRIPT\\ComputerInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVFeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SCRIPT\\CCTVFeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVViewSweep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SCRIPT\\CCTVViewSweep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SCRIPT\\CCTVControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComputerInteract.cs",
+              "DocumentMoniker": "D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\ComputerInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\SCRIPT\\ComputerInteract.cs",
+              "ToolTip": "D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\ComputerInteract.cs",
+              "RelativeToolTip": "Assets\\SCRIPT\\ComputerInteract.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T12:22:41.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CCTVManager.cs",
+              "DocumentMoniker": "D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SCRIPT\\CCTVManager.cs",
+              "ToolTip": "D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVManager.cs",
+              "RelativeToolTip": "Assets\\SCRIPT\\CCTVManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:54:16.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CCTVFeed.cs",
+              "DocumentMoniker": "D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVFeed.cs",
+              "RelativeDocumentMoniker": "Assets\\SCRIPT\\CCTVFeed.cs",
+              "ToolTip": "D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVFeed.cs",
+              "RelativeToolTip": "Assets\\SCRIPT\\CCTVFeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:53:41.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CCTVViewSweep.cs",
+              "DocumentMoniker": "D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVViewSweep.cs",
+              "RelativeDocumentMoniker": "Assets\\SCRIPT\\CCTVViewSweep.cs",
+              "ToolTip": "D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVViewSweep.cs",
+              "RelativeToolTip": "Assets\\SCRIPT\\CCTVViewSweep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:16:54.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CCTVControl.cs",
+              "DocumentMoniker": "D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVControl.cs",
+              "RelativeDocumentMoniker": "Assets\\SCRIPT\\CCTVControl.cs",
+              "ToolTip": "D:\\lomba\\My-project--1-\\Assets\\SCRIPT\\CCTVControl.cs",
+              "RelativeToolTip": "Assets\\SCRIPT\\CCTVControl.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:21:20.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

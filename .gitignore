@@ -1,0 +1,42 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Mm]inimalBuild/
+
+# Package caches
+Packages/manifest.json
+Packages/packages-lock.json
+PackageCache/
+
+# Visual Studio / VS Code
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Rider
+.idea/
+
+# Crash & error files
+sysinfo.txt
+
+# Others
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta/LOMBA/Library/
